@@ -6,7 +6,15 @@ A real compass for Minecraft, which points north in the real world.
 - Looks like a minecraft compass.
 - Can be used in any IRL version
 
-# BOM
+## Images
+
+![alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f9e89fd0ee223cffdb651447467140033ccb273d_untitled.png)
+<sub><sup> Got lazy with textures </sup></sub>
+
+![alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f9e89fd0ee223cffdb651447467140033ccb273d_untitled.png)
+<sub><sup> The exploded view is upsidedown, thats why you dont see bolts in the render.</sup></sub>
+
+## BOM
 
 | Name                         | Quantity | Single Unit Price | Total Price | URL/LCSC                                                 | FALSE | Vendor (LCSC unless otheriwse indicated) |   |
 |------------------------------|----------|-------------------|-------------|----------------------------------------------------------|-------|------------------------------------------|---|
