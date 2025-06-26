@@ -17,7 +17,7 @@ using blending options I can see what pixels I needed to be LEDs.
 
 I then stated the schmatic. 
 
-![alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7b858ba6190f89dc07e4c81479ab57bbf33da4a7_image.png)
+![alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/81df8ca1d4aa0df67fb955d1b4fba7bd5e588ef8_image.png)
 
 I choose the XIAO RP2040 as the microcontroller because it was small and cheap.
 
