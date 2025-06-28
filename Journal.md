@@ -1,3 +1,10 @@
+---
+title: "Compasses-Were-Copied-From-Minecraft"
+author: "RunTheBot"
+description: "Compass from minecraft"
+created_at: "2025-06-24"
+---
+
 Hours: 12
 
 # 6/25/2025
