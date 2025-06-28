@@ -14,6 +14,9 @@ A real compass for Minecraft, which points north in the real world.
 ![alt text](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4a789219c1436f086280cc85c71214e8e4251c66_assembly_1.png)
 <sub><sup> The exploded view is upsidedown, thats why you dont see bolts in the render.</sup></sub>
 
+![image](https://github.com/user-attachments/assets/db14e7af-69aa-47ad-8a8e-7cc68ef0c076)
+
+
 ## BOM
 
 | Name                         | Quantity | Single Unit Price | Total Price | URL/LCSC                                                 | FALSE | Vendor (LCSC unless otheriwse indicated) |   |
